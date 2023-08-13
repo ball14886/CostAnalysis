@@ -1,0 +1,5 @@
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\app.publish\Cost Analysis.exe
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\app.publish\Cost Analysis.dll
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\app.publish\Cost Analysis.deps.json
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\app.publish\Cost Analysis.runtimeconfig.json
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\app.publish\Cost Analysis.pdb

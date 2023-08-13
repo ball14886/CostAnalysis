@@ -1,0 +1,27 @@
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\Cost Analysis.exe
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\Cost Analysis.deps.json
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\Cost Analysis.runtimeconfig.json
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\Cost Analysis.dll
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\Cost Analysis.pdb
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.csproj.AssemblyReference.cache
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.csproj.ResolveComReference.cache
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\MainWindow.g.cs
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\App.g.cs
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis_MarkupCompile.cache
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis_MarkupCompile.lref
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\MainWindow.baml
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.g.resources
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.AssemblyInfoInputs.cache
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.AssemblyInfo.cs
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.csproj.CoreCompileInputs.cache
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.dll
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\refint\Cost Analysis.dll
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.pdb
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.genruntimeconfig.cache
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\ref\Cost Analysis.dll
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\Cost Analysis.dll.manifest
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\bin\Release\net7.0-windows\Cost Analysis.application
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.dll.manifest
+D:\Projects\Best\LossAnalysis\LossAnalysis\Cost Analysis\obj\Release\net7.0-windows\Cost Analysis.application
